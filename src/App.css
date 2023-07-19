@@ -1,0 +1,17 @@
+
+.main-container{
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+a{
+    gap: 5px;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+a:hover {
+    color: rgb(112, 111, 113);
+}

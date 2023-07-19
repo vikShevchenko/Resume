@@ -1,0 +1,23 @@
+.left-bar {
+  width: 40%;
+  background: linear-gradient(#68688566, #5352374f);
+  border-radius: 100px 0 0 0;
+}
+img {
+  width: 200px;
+  border-radius: 30% 5% 30% 5%;
+  display: block;
+  margin: 60px auto;
+}
+h2 {
+  padding: 10px;
+  margin: 0;
+  padding-left: 40px;
+  font-family: Roboto;
+  color: rgb(91, 89, 89);
+}
+li {
+  list-style: none;
+  padding: 3px;
+  font-family: Roboto;
+}

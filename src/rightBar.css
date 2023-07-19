@@ -1,0 +1,26 @@
+.right-bar {
+  width: 60%;
+  border: 1px solid #c5c5ca;
+  background-color: rgb(251, 249, 247);
+  padding: 20px;
+  border-radius: 0 10px 0 0;
+}
+.title {
+  font-size: xx-large;
+  padding-top: 30px;
+  padding-left: 40px;
+  font-family: Roboto;
+}
+p {
+  margin: 0;
+  padding-top: 20px;
+  width: 435px;
+  padding-left: 40px;
+  font-family: Roboto;
+}
+h1 {
+  margin: 0px;
+  padding-top: 40px;
+  padding-left: 100px;
+  font-family: Roboto;
+}
