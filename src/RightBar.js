@@ -10,7 +10,7 @@ export const RightBar = () => {
 
   return (
     <div className="right-bar">
-      <h1>Viktor Shevchenko</h1>
+      <h1 className="right-title">Viktor Shevchenko</h1>
       <p className="title">Frontend Developer</p>
       <p>{info}</p>
       <h2>Project Experience</h2>

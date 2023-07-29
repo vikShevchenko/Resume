@@ -6,3 +6,13 @@
   width: 300px;
   color: #5a4d4d94;
 }
+.dotes{
+  display: block;
+}
+
+@media (max-width: 840px){
+  .dotes{
+    display: none;
+  }
+
+}

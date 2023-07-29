@@ -9,6 +9,7 @@ export const LeftBar = () => {
         src="https://avatars.githubusercontent.com/u/63931417?s=400&u=87355e2fbb20017104d850f87c4891d6ad9c3550&v=4"
         alt="foto"
       />
+      <h1 className="left-title">Shevchenko Viktor</h1>
       <h2>Contact Me </h2>
 
       <ul>

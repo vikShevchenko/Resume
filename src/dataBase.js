@@ -30,10 +30,11 @@ export const contactMe = [
   },
 ];
 export const tachSkills = [
-  "CSS",
   "HTML",
+  "CSS",
   "SCSS",
   "JavaScript",
+  "TypeScript",
   "React Hooks&Components",
   "React Redux",
   "React Mobx",
@@ -56,7 +57,7 @@ export const project = [
       <div>
         <a href="https://react-typescript-pizza-order.vercel.app/">
 
-          App Pizza Order.........................................................................
+          App Pizza Order<span className="dotes">...............................................................</span>
           <SiVercel />
         </a>
         <p className="links">Website for posting content.</p>
@@ -73,7 +74,7 @@ export const project = [
       <div>
         <a href="https://vikshevchenko.github.io/Weather-proj/">
           Weather
-          Bar...............................................................................
+          Bar<span className="dotes">.....................................................................</span>
           <AiOutlineGithub />
         </a>
         <p className="links">
@@ -89,7 +90,7 @@ export const project = [
       <div>
         <a href="https://vikshevchenko.github.io/goit-react-hw-06-phonebook/">
           Phone Book
-          Widget...................................................................
+          Widget<span className="dotes">.........................................................</span>
           <AiOutlineGithub />
         </a>
         <p className="links">Alows to store people names and phone numbers.</p>
@@ -103,7 +104,7 @@ export const project = [
       <div>
         <a href="https://vikshevchenko.github.io/goit-react-hw-05-movies">
           Movie
-          Columnist.......................................................................
+          Columnist<span className="dotes">.............................................................</span>
           <AiOutlineGithub />
         </a>
         <p className="links">
@@ -122,11 +123,25 @@ export const project = [
       <div>
         <a href="https://magazin-fawn.vercel.app/">
           Simple Souvenir
-          Shop...............................................................
+          Shop<span className="dotes">.....................................................</span>
           < SiVercel />
         </a>
         <p className="links">Application.</p>
         <p className="links">Technologies: HTML, CSS, JS. </p>
+        <p></p>
+      </div>
+    ),
+  },
+  {
+    tag: (
+      <div>
+        <a href="https://vikshevchenko.github.io/TodoList-React-TS-SCSS/">
+          Boring TodoList
+          <span className="dotes">...............................................................</span>
+          < AiOutlineGithub />
+        </a>
+        <p className="links">Test Demo Application.</p>
+        <p className="links">Technologies: HTML, SCSS, React, TypeScript. </p>
         <p></p>
       </div>
     ),
