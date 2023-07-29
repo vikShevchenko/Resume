@@ -1,7 +1,6 @@
 .left-bar {
-  /* width: 100%; */
   width: 40%;
-  background: linear-gradient(#68688566, #5352374f);
+  background: linear-gradient(#68688566, rgb(251, 249, 247));
   border-radius: 100px 0 0 0;
 }
 
